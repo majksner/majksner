@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nikola Majksner and I'm a *%^$#@=_. I'm currently working at AirShaper.
+10+ years of versatile experience in the analysis, design, development, and implementation of N-tier architecture-based applications of enterprise, which includes full-stack development using web technologies. Adapt to all phases of the project life cycle from inception to implementation. Good hands-on experience in Advertising, HR, Aerospace and Aviation industry. Hands-on experience in DevOps and Agile. Expertise in Ruby, PHP, Python. Hands-on experience in Rails and Laravel. Experience in front-end frameworks React, VueJS. Experience working with UNIX, Linux shell and bash scripting. Experience in Web Services Technologies like GraphQL, REST, Node-JS and implemented SOA architecture with web services. Having Good Experience in RDBMS like PostgreSQL and MySQL. Good knowledge of Data Structures, Algorithms and Object-Oriented design concepts. Ability to learn and adapt to new technologies very quickly. Excellent written and verbal communication skills, presentation and problem-solving skills. 
 <!--
 **majksner/majksner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
