@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Nikola Majksner and I'm a *%^$#@=_. I'm currently working at AirShaper.
 <!--
 **majksner/majksner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
